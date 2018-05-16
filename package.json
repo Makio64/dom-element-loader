@@ -1,0 +1,30 @@
+{
+  "name": "dom-element-loader",
+  "version": "1.0.0",
+  "description": "The simpliest way to load your HTML as DOM element for Webpack 4+.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makio64/domElement-loader.git"
+  },
+  "keywords": [
+    "dom",
+    "loaders",
+    "webpack",
+    "element",
+    "node",
+    "nodes",
+    "div",
+    "container",
+    "html"
+  ],
+  "author": "David Ronai @makio64",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Makio64/domElement-loader/issues"
+  },
+  "homepage": "https://github.com/Makio64/domElement-loader#readme"
+}
