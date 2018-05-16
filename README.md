@@ -1,4 +1,4 @@
-# domElement loader
+# dom-element-loader
 
 The simpliest way to load your HTML as DOM element/node for Webpack 4+.
 
@@ -11,6 +11,11 @@ ui.style.background = '#FFF' // do whatever you want on it ^_^
 
 document.appendChild( ui )
 ```
+
+```html
+<div class='sexy'>this div gonna be import in your js as DOM element</div>
+```
+
 
 ## Installation
 
