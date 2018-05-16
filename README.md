@@ -15,7 +15,7 @@ document.appendChild( ui )
 ## Installation
 
 ```sh
-npm install --save domElement-loader
+npm install --save dom-element-loader
 ```
 
 ```js
@@ -24,7 +24,7 @@ module.exports = {
     module: {
 		//..
         loaders: [
-            { test: /\.(html)?$/, loader: 'domElement' }
+            { test: /\.(html)?$/, loader: 'dom-element-loader' }
         ]
     }
 };
